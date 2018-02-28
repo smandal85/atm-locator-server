@@ -1,0 +1,7 @@
+com\atmlocator\domain\GeoLocation.class
+com\atmlocator\services\AtmLocatorService.class
+com\atmlocator\AtmLocatorApplication.class
+com\atmlocator\services\AtmLocatorServiceInterface.class
+com\atmlocator\controllers\AtmLocatorController.class
+com\atmlocator\domain\Address.class
+com\atmlocator\domain\AtmDetails.class

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ankit
+Build-Jdk: 9.0.4
+Implementation-Title: atm-locator-server
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.atmlocator
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/atm-locator-
+ server/
+Created-By: Maven Integration for Eclipse
+
